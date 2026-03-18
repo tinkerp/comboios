@@ -8,6 +8,8 @@ Este projeto recolhe, normaliza e visualiza dados dinâmicos e estáticos dos co
 
 > ⚠️ **Aviso**: Este projeto utiliza endpoints *não oficiais* da CP. Não é afiliado nem apoiado pela Comboios de Portugal.
 
+https://comboios.ruicosta.pt/
+
 ---
 
 ## ✨ Funcionalidades
